@@ -1,1 +1,14 @@
 Asynchronous Motor Parameter Estimation Toolkit
+
+A MATLAB-based toolkit for estimating induction motor equivalent circuit parameters. Files in the repository:
+* nr_solver.m:          Newton-Raphson solver for 8 parameter double cage model
+* calc_pqt.m:           Calculates mechanical power, reactive power, current and torque from equivalent circuit parameters
+* get_torque:           Calculates stator current and torque from equivalent circuit parameters
+* IEC_test_set.csv      Test set of 4,002 IEC motors
+* NEMA_test_set.csv     Test set of 2,378 NEMA motors
+
+Author
+======
+
+Julius Susanto
++ http://github.com/susantoj
