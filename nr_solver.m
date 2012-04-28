@@ -5,6 +5,8 @@
 %              Includes adaptive step size (as per Pedra 2008)
 %              Includes determinant check of jacobian matrix
 %
+% Author: Julius Susanto
+%
 % Usage: nr_solver (p, kx, kr, max_iter)
 %
 % Where   p is a vector of motor performance parameters:

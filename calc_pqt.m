@@ -1,7 +1,8 @@
 % CALC_PQT - Calculates motor mechanical power, reactive power, breakdown
 % torque and efficiency from equivalent circuit parameters (used for double
 % cage model with core losses)
-% 
+% Author: Julius Susanto 
+%
 % Usage: calc_pqt (slip,x)
 %
 % Where sf is the full load slip (pu)

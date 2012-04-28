@@ -1,5 +1,6 @@
 % GET_TORQUE - Calculate double cage motor torque and stator current
 % (without core loss component)
+% Author: Julius Susanto
 % 
 % Usage: get_torque (slip,type,x)
 %
