@@ -26,7 +26,6 @@ c_f = 0.8;    % crossover fraction
 sigma = [0.01 0.01 0.33 0.01 0.01 0.01 0.01 6.67]; 
 
 w = [0.15 0.15 5 0.15 0.3 0.15 0.15 100]; % Weighting vector
-n_gen = 30;    % maximum number of generations
 err_tol = 0.00001; % error tolerance
 
 % Human-readable motor performance parameters
